@@ -1,0 +1,5 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\MoreOnClasses\bin\Debug\MoreOnClasses.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\MoreOnClasses\bin\Debug\MoreOnClasses.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\MoreOnClasses\bin\Debug\MoreOnClasses.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\MoreOnClasses\obj\Debug\MoreOnClasses.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\MoreOnClasses\obj\Debug\MoreOnClasses.pdb

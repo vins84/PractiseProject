@@ -1,0 +1,5 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Generics\bin\Debug\Generics.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Generics\bin\Debug\Generics.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Generics\bin\Debug\Generics.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Generics\obj\Debug\Generics.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Generics\obj\Debug\Generics.pdb

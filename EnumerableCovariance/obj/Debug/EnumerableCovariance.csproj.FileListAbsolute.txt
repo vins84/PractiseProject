@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableCovariance\bin\Debug\EnumerableCovariance.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableCovariance\bin\Debug\EnumerableCovariance.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableCovariance\bin\Debug\EnumerableCovariance.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableCovariance\obj\Debug\EnumerableCovariance.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableCovariance\obj\Debug\EnumerableCovariance.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableCovariance\obj\Debug\EnumerableCovariance.pdb

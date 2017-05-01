@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\PractiseProject\bin\Debug\PractiseProject.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\PractiseProject\bin\Debug\PractiseProject.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\PractiseProject\bin\Debug\PractiseProject.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\PractiseProject\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\PractiseProject\obj\Debug\PractiseProject.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\PractiseProject\obj\Debug\PractiseProject.pdb

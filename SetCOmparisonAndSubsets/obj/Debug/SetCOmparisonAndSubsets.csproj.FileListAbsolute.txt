@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\SetCOmparisonAndSubsets\bin\Debug\SetCOmparisonAndSubsets.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\SetCOmparisonAndSubsets\bin\Debug\SetCOmparisonAndSubsets.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\SetCOmparisonAndSubsets\bin\Debug\SetCOmparisonAndSubsets.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\SetCOmparisonAndSubsets\obj\Debug\SetCOmparisonAndSubsets.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\SetCOmparisonAndSubsets\obj\Debug\SetCOmparisonAndSubsets.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\SetCOmparisonAndSubsets\obj\Debug\SetCOmparisonAndSubsets.pdb

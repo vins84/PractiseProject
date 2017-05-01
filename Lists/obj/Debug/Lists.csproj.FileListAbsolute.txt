@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Lists\bin\Debug\Lists.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Lists\bin\Debug\Lists.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Lists\bin\Debug\Lists.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Lists\obj\Debug\Lists.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\Lists\obj\Debug\Lists.pdb

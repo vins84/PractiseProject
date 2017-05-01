@@ -1,0 +1,5 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\DictionaryIEqualityComparer\bin\Debug\DictionaryIEqualityComparer.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\DictionaryIEqualityComparer\bin\Debug\DictionaryIEqualityComparer.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\DictionaryIEqualityComparer\bin\Debug\DictionaryIEqualityComparer.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\DictionaryIEqualityComparer\obj\Debug\DictionaryIEqualityComparer.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\DictionaryIEqualityComparer\obj\Debug\DictionaryIEqualityComparer.pdb

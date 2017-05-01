@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableArray\bin\Debug\EnumerableArray.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableArray\bin\Debug\EnumerableArray.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableArray\bin\Debug\EnumerableArray.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableArray\obj\Debug\EnumerableArray.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableArray\obj\Debug\EnumerableArray.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerableArray\obj\Debug\EnumerableArray.pdb

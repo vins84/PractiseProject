@@ -1,0 +1,5 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.pdb

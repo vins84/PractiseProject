@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArrayTypes\bin\Debug\ArrayTypes.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArrayTypes\bin\Debug\ArrayTypes.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArrayTypes\bin\Debug\ArrayTypes.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArrayTypes\obj\Debug\ArrayTypes.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArrayTypes\obj\Debug\ArrayTypes.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArrayTypes\obj\Debug\ArrayTypes.pdb

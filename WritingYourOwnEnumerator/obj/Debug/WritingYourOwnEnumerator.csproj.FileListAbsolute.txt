@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\WritingYourOwnEnumerator\bin\Debug\WritingYourOwnEnumerator.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\WritingYourOwnEnumerator\bin\Debug\WritingYourOwnEnumerator.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\WritingYourOwnEnumerator\bin\Debug\WritingYourOwnEnumerator.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\WritingYourOwnEnumerator\obj\Debug\WritingYourOwnEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\WritingYourOwnEnumerator\obj\Debug\WritingYourOwnEnumerator.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\WritingYourOwnEnumerator\obj\Debug\WritingYourOwnEnumerator.pdb

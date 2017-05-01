@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArraysOperations\bin\Debug\ArraysOperations.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArraysOperations\bin\Debug\ArraysOperations.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArraysOperations\bin\Debug\ArraysOperations.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArraysOperations\obj\Debug\CopyAndReverseArrays.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArraysOperations\obj\Debug\ArraysOperations.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\ArraysOperations\obj\Debug\ArraysOperations.pdb

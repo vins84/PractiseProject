@@ -1,0 +1,5 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerateItmes\bin\Debug\EnumerateItmes.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerateItmes\bin\Debug\EnumerateItmes.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerateItmes\bin\Debug\EnumerateItmes.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerateItmes\obj\Debug\EnumerateItmes.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\EnumerateItmes\obj\Debug\EnumerateItmes.pdb

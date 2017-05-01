@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\StructsEnumsExceptions_WorkingWithFiles\bin\Debug\StructsEnumsExceptions_WorkingWithFiles.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\StructsEnumsExceptions_WorkingWithFiles\bin\Debug\StructsEnumsExceptions_WorkingWithFiles.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\StructsEnumsExceptions_WorkingWithFiles\bin\Debug\StructsEnumsExceptions_WorkingWithFiles.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\StructsEnumsExceptions_WorkingWithFiles\obj\Debug\StructsEnumsExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\StructsEnumsExceptions_WorkingWithFiles\obj\Debug\StructsEnumsExceptions_WorkingWithFiles.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\StructsEnumsExceptions_WorkingWithFiles\obj\Debug\StructsEnumsExceptions_WorkingWithFiles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InterfaceDependencyForSignOff\bin\Debug\InterfaceDependencyForSignOff.exe.config
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InterfaceDependencyForSignOff\bin\Debug\InterfaceDependencyForSignOff.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InterfaceDependencyForSignOff\bin\Debug\InterfaceDependencyForSignOff.pdb
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InterfaceDependencyForSignOff\obj\Debug\InterfaceDependencyForSignOff.csprojResolveAssemblyReference.cache
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InterfaceDependencyForSignOff\obj\Debug\InterfaceDependencyForSignOff.exe
+C:\Users\Miroslaw\Documents\Visual Studio 2015\Projects\PractiseProject(2)\InterfaceDependencyForSignOff\obj\Debug\InterfaceDependencyForSignOff.pdb
